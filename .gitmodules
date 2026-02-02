@@ -1,0 +1,9 @@
+[submodule "blaze"]
+	path = blaze
+	url = git@github.com:hotschmoe/blaze.git
+[submodule "forge"]
+	path = forge
+	url = git@github.com:hotschmoe/forge.git
+[submodule "flux"]
+	path = flux
+	url = git@github.com:hotschmoe/flux.git
