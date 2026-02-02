@@ -1,0 +1,19 @@
+# Zig build artifacts
+zig-out/
+zig-cache/
+.zig-cache/
+
+# Local development
+.DS_Store
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Debug
+*.pdb
